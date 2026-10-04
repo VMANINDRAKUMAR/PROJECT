@@ -33,7 +33,6 @@ The project includes analysis of:
 - Latitude and longitude
 - Magnitude type
 - RMS and GAP
-- Number of stations (NST)
 - Earthquake types
 - Country/location-based earthquake trends
 
